@@ -1,2 +1,2 @@
 # agile-final-project
-repo for IBM agile course
+repo for IBM agile course final project
